@@ -200,4 +200,6 @@ footer.footer-main { display: block; width: 100%; padding: 30px 0px; }
 
 @media (max-width: 576px){
 	.container	{ width: 360px; }
+	.hero-header h1 { font-size: 39px; }
+	.middel-col { padding: 20px; }
 }
